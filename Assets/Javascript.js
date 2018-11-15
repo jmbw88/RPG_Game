@@ -27,3 +27,4 @@ var masterYoda = {
 document.getElementById("obiHealth").innerHTML=[obiWan.health];
 $("#obiAttack").html(obiWan.attack);
 document.getElementById("obiCounter").innerHTML=[obiWan.counterAttack];
+
