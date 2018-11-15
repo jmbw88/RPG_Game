@@ -24,5 +24,6 @@ var masterYoda = {
     counterAttack: 18
 }
 
-document.getElementById("obiHealth").innerHTML=[obiWan.health]
-document.getElementById("obiAttack").innerHTML=[obiWan.attack]
+document.getElementById("obiHealth").innerHTML=[obiWan.health];
+$("#obiAttack").html(obiWan.attack);
+document.getElementById("obiCounter").innerHTML=[obiWan.counterAttack];
