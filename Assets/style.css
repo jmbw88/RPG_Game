@@ -1,0 +1,11 @@
+body {
+    background-image: url("Hoth.jpg")
+}
+
+#banner {
+    background-image: url("stars.jpg");
+    color: #ffd700;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
